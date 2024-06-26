@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/back.png</file>
+        <file>res/Bd.png</file>
+        <file>res/bg1.png</file>
+        <file>res/clicked.wav</file>
+        <file>res/down.png</file>
+        <file>res/eatfood.wav</file>
+        <file>res/food.bmp</file>
+        <file>res/game_hall.png</file>
+        <file>res/game_room.png</file>
+        <file>res/game_select.png</file>
+        <file>res/gameover.wav</file>
+        <file>res/ico.png</file>
+        <file>res/left.png</file>
+        <file>res/login.png</file>
+        <file>res/right.png</file>
+        <file>res/scores.png</file>
+        <file>res/sorce_bg.png</file>
+        <file>res/Trepak.wav</file>
+        <file>res/up.png</file>
+    </qresource>
+</RCC>
